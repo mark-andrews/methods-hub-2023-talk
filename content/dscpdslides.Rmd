@@ -1,0 +1,23 @@
+---
+title: "Data Science CPD Training Courses"
+author: "Mark Andrews"
+date: "12th January, 2023"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Training courses in 2023
+
+* In 2023, I will be teaching the following six courses:
+
+  * Introduction to R (two day course; April 2023)
+  * Data wrangling in R (two days; April 2023)
+  * Data visualization using R (two days; May 2023)
+  * Generalized linear models (two days; May 2023)
+  * Multilevel models (two days; June 2023)
+  * Bayesian data analysis (three days; June 2023)
+  
+* These courses are aimed at scientists and researchers, most of whom have, or are obtaining, a PhD.
